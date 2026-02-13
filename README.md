@@ -1,6 +1,6 @@
 # BSP STM32G4XX-NUCLEO Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32g4xx-nucleo.svg?color=brightgreen)
+![tag](https://img.shields.io/badge/tag-v1.0.6-brightgreen.svg)
 
 ## Overview
 
